@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Jonathan Kramer",
+    "imageUrl": "/jk.jpg",
+    "imageAlt": "Jonathan Kramer",
+    "title": "President",
+    "description": "They say the buck stops with the President. JK, as he's known colloquially, is no exception. Since joining Zopa in 2014 JK has built a great team dedicated to bringing in funds to help Zopa grow and borrowers get great deals on loans."
+  },
+  {
+    "name": "Tajmeet Kalra",
+    "imageUrl": "/tk.jpg",
+    "imageAlt": "Tajmeet Kalra",
+    "title": "Capital Markets",
+    "description": "They say what this man doesn't know about spreadsheets ain't worth knowing, and they're right. In fact his love of spreadsheets is bettered only by his love of coffee. A spreadsheet of artisanal coffee joints you say? Seventh heaven for this man."
+  },
+  {
+    "name": "Jolene Cheung",
+    "imageUrl": "/jc.jpg",
+    "imageAlt": "Jolene Cheung",
+    "title": "Capital Markets Manager",
+    "description": "Joining the team in 2018, the benefit of Jolene's cool, calm-headed approach to getting things done is a real asset to the team. Whether it's keeping existing institutional investors happy or onboarding new ones, Jolene gets it done with aplomb. Her mum grows spectacular marrows also."
+  },
+  {
+    "name": "William Johnson",
+    "imageUrl": "/wj.jpg",
+    "imageAlt": "William Johnson",
+    "title": "Capital Markets Big Dog",
+    "description": "This man loves the stories that numbers tell, and who can blame him? Will brings many things to the team, not least an excellent knowledge of Papa John's pizzas and a hawk like focus on ensuring demand is matched to supply every month."
+  }
+]
